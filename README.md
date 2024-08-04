@@ -31,7 +31,7 @@ Dataset consists customer information for a customer churn prediction problem. I
 
 * **Churn**: A binary indicator (1 or 0) representing whether the customer has churned (1) or not (0).
 
-# `Teck Tech Used`
+# `Technologies Used`
 * **Python Programming Language**
 
 Python serves as the primary programming language for data analysis, modeling, and implementation of machine learning algorithms due to its rich ecosystem of libraries and packages.
